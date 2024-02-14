@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6174985976977176853
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.37246
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.37246
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.37246
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 52.95
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 139.59
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.696414
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.71764034
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -91.72
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 769cb32ec35c09743bef6dd117d5c11c,
+        type: 3}
+      propertyPath: m_Name
+      value: uploads_files_4307523_Modren+Luxury+House Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 2726784769097854419, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 7556186696808190391, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 7847202876461557298, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -4985525813426744871, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 8351302029993835002, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -1206359240326185716, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 669116384815698101, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 5375067748640883943, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -4962501526742606781, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -6424990256862068692, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 600846678715505799, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -8006936436830671631, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -9019920088346675156, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 1100867825454588467, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -2162744398257061625, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -1599826595754709761, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: -466329591000292508, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 4424396828587804706, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 1502877291743220047, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    - {fileID: 5252682845850649624, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 769cb32ec35c09743bef6dd117d5c11c, type: 3}
